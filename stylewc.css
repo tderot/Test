@@ -1,0 +1,117 @@
+
+
+body{
+	background: orange;
+	background-size: cover;
+}
+
+
+#page {
+	width: 100%
+	margin: auto;
+}
+ 
+ #banniere{
+ 	margin-top: 15px;
+ 	height: 200px
+ 	background: url(http://zupimages.net/up/16/48/7rcy.png);
+ 	position: relative;
+ 	margin-bottom: 25px
+ }
+
+ .clown{
+ 	background-image: url(http://magnolias.m.a.pic.centerblog.net/c8656fb1.png);
+ 	background-size: cover;
+ 	width: 300px;
+ 	height: 450px;
+ 	position: relative;
+ }
+
+.clown p {
+	text-decoration: line-through;
+	position: absolute;
+	bottom: 0;
+	
+}
+
+.magicien{
+	background-image: url("http://zupimages.net/up/16/48/01fi.png");
+	background-size: cover;
+	width: 350px;
+	height: 450px;
+}
+
+
+.lion{
+	background-image: url("http://zupimages.net/up/16/48/kw1l.png");
+	background-size: cover;
+	width: 350px;
+	height: 450px;
+}
+
+#conteneur{
+	display: flex;
+	justify-content: space-around;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
